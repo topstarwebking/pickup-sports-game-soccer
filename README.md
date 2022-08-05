@@ -1,858 +1,279 @@
-Contribution: 2018-04-20 20:00
-
-Contribution: 2018-04-20 20:01
-
-Contribution: 2018-04-20 20:02
-
-Contribution: 2018-04-20 20:03
-
-Contribution: 2018-04-20 20:04
-
-Contribution: 2018-04-20 20:05
-
-Contribution: 2018-04-20 20:06
-
-Contribution: 2018-04-20 20:07
-
-Contribution: 2018-04-20 20:08
-
-Contribution: 2018-04-20 20:09
-
-Contribution: 2018-04-20 20:10
-
-Contribution: 2018-04-20 20:11
-
-Contribution: 2018-04-22 20:00
-
-Contribution: 2018-04-22 20:01
-
-Contribution: 2018-04-22 20:02
-
-Contribution: 2018-04-22 20:03
-
-Contribution: 2018-04-22 20:04
-
-Contribution: 2018-04-22 20:05
-
-Contribution: 2018-04-25 20:00
-
-Contribution: 2018-04-26 20:00
-
-Contribution: 2018-04-26 20:01
-
-Contribution: 2018-04-26 20:02
-
-Contribution: 2018-04-26 20:03
-
-Contribution: 2018-04-29 20:00
-
-Contribution: 2018-04-29 20:01
-
-Contribution: 2018-04-29 20:02
-
-Contribution: 2018-04-29 20:03
-
-Contribution: 2018-04-29 20:04
-
-Contribution: 2018-04-29 20:05
-
-Contribution: 2018-04-29 20:06
-
-Contribution: 2018-05-01 20:00
-
-Contribution: 2018-05-01 20:01
-
-Contribution: 2018-05-01 20:02
-
-Contribution: 2018-05-01 20:03
-
-Contribution: 2018-05-01 20:04
-
-Contribution: 2018-05-01 20:05
-
-Contribution: 2018-05-02 20:00
-
-Contribution: 2018-05-02 20:01
-
-Contribution: 2018-05-02 20:02
-
-Contribution: 2018-05-02 20:03
-
-Contribution: 2018-05-02 20:04
-
-Contribution: 2018-05-02 20:05
-
-Contribution: 2018-05-02 20:06
-
-Contribution: 2018-05-02 20:07
-
-Contribution: 2018-05-02 20:08
-
-Contribution: 2018-05-02 20:09
-
-Contribution: 2018-05-02 20:10
-
-Contribution: 2018-05-02 20:11
-
-Contribution: 2018-05-02 20:12
-
-Contribution: 2018-05-03 20:00
-
-Contribution: 2018-05-03 20:01
-
-Contribution: 2018-05-03 20:02
-
-Contribution: 2018-05-03 20:03
-
-Contribution: 2018-05-03 20:04
-
-Contribution: 2018-05-03 20:05
-
-Contribution: 2018-05-03 20:06
-
-Contribution: 2018-05-03 20:07
-
-Contribution: 2018-05-03 20:08
-
-Contribution: 2018-05-03 20:09
-
-Contribution: 2018-05-04 20:00
-
-Contribution: 2018-05-04 20:01
-
-Contribution: 2018-05-04 20:02
-
-Contribution: 2018-05-04 20:03
-
-Contribution: 2018-05-04 20:04
-
-Contribution: 2018-05-04 20:05
-
-Contribution: 2018-05-04 20:06
-
-Contribution: 2018-05-06 20:00
-
-Contribution: 2018-05-06 20:01
-
-Contribution: 2018-05-06 20:02
-
-Contribution: 2018-05-06 20:03
-
-Contribution: 2018-05-06 20:04
-
-Contribution: 2018-05-07 20:00
-
-Contribution: 2018-05-07 20:01
-
-Contribution: 2018-05-07 20:02
-
-Contribution: 2018-05-07 20:03
-
-Contribution: 2018-05-07 20:04
-
-Contribution: 2018-05-12 20:00
-
-Contribution: 2018-05-12 20:01
-
-Contribution: 2018-05-12 20:02
-
-Contribution: 2018-05-12 20:03
-
-Contribution: 2018-05-12 20:04
-
-Contribution: 2018-05-12 20:05
-
-Contribution: 2018-05-12 20:06
-
-Contribution: 2018-05-12 20:07
-
-Contribution: 2018-05-12 20:08
-
-Contribution: 2018-05-12 20:09
-
-Contribution: 2018-05-12 20:10
-
-Contribution: 2018-05-12 20:11
-
-Contribution: 2018-05-12 20:12
-
-Contribution: 2018-05-17 20:00
-
-Contribution: 2018-05-17 20:01
-
-Contribution: 2018-05-18 20:00
-
-Contribution: 2018-05-19 20:00
-
-Contribution: 2018-05-19 20:01
-
-Contribution: 2018-05-19 20:02
-
-Contribution: 2018-05-19 20:03
-
-Contribution: 2018-05-20 20:00
-
-Contribution: 2018-05-20 20:01
-
-Contribution: 2018-05-20 20:02
-
-Contribution: 2018-05-20 20:03
-
-Contribution: 2018-05-20 20:04
-
-Contribution: 2018-05-20 20:05
-
-Contribution: 2018-05-20 20:06
-
-Contribution: 2018-05-20 20:07
-
-Contribution: 2018-05-20 20:08
-
-Contribution: 2018-05-21 20:00
-
-Contribution: 2018-05-21 20:01
-
-Contribution: 2018-05-21 20:02
-
-Contribution: 2018-05-21 20:03
-
-Contribution: 2018-05-21 20:04
-
-Contribution: 2018-05-21 20:05
-
-Contribution: 2018-05-21 20:06
-
-Contribution: 2018-05-21 20:07
-
-Contribution: 2018-05-21 20:08
-
-Contribution: 2018-05-21 20:09
-
-Contribution: 2018-05-22 20:00
-
-Contribution: 2018-05-22 20:01
-
-Contribution: 2018-05-23 20:00
-
-Contribution: 2018-05-23 20:01
-
-Contribution: 2018-05-23 20:02
-
-Contribution: 2018-05-23 20:03
-
-Contribution: 2018-05-23 20:04
-
-Contribution: 2018-05-23 20:05
-
-Contribution: 2018-05-23 20:06
-
-Contribution: 2018-05-23 20:07
-
-Contribution: 2018-05-23 20:08
-
-Contribution: 2018-05-23 20:09
-
-Contribution: 2018-05-26 20:00
-
-Contribution: 2018-05-26 20:01
-
-Contribution: 2018-05-26 20:02
-
-Contribution: 2018-05-26 20:03
-
-Contribution: 2018-06-01 20:00
-
-Contribution: 2018-06-01 20:01
-
-Contribution: 2018-06-01 20:02
-
-Contribution: 2018-06-01 20:03
-
-Contribution: 2018-06-02 20:00
-
-Contribution: 2018-06-02 20:01
-
-Contribution: 2018-06-02 20:02
-
-Contribution: 2018-06-02 20:03
-
-Contribution: 2018-06-02 20:04
-
-Contribution: 2018-06-02 20:05
-
-Contribution: 2018-06-02 20:06
-
-Contribution: 2018-06-02 20:07
-
-Contribution: 2018-06-02 20:08
-
-Contribution: 2018-06-05 20:00
-
-Contribution: 2018-06-05 20:01
-
-Contribution: 2018-06-05 20:02
-
-Contribution: 2018-06-05 20:03
-
-Contribution: 2018-06-06 20:00
-
-Contribution: 2018-06-06 20:01
-
-Contribution: 2018-06-06 20:02
-
-Contribution: 2018-06-06 20:03
-
-Contribution: 2018-06-06 20:04
-
-Contribution: 2018-06-07 20:00
-
-Contribution: 2018-06-07 20:01
-
-Contribution: 2018-06-07 20:02
-
-Contribution: 2018-06-07 20:03
-
-Contribution: 2018-06-07 20:04
-
-Contribution: 2018-06-07 20:05
-
-Contribution: 2018-06-07 20:06
-
-Contribution: 2018-06-07 20:07
-
-Contribution: 2018-06-07 20:08
-
-Contribution: 2018-06-07 20:09
-
-Contribution: 2018-06-07 20:10
-
-Contribution: 2018-06-08 20:00
-
-Contribution: 2018-06-08 20:01
-
-Contribution: 2018-06-08 20:02
-
-Contribution: 2018-06-08 20:03
-
-Contribution: 2018-06-08 20:04
-
-Contribution: 2018-06-08 20:05
-
-Contribution: 2018-06-10 20:00
-
-Contribution: 2018-06-10 20:01
-
-Contribution: 2018-06-10 20:02
-
-Contribution: 2018-06-10 20:03
-
-Contribution: 2018-06-10 20:04
-
-Contribution: 2018-06-10 20:05
-
-Contribution: 2018-06-10 20:06
-
-Contribution: 2018-06-10 20:07
-
-Contribution: 2018-06-10 20:08
-
-Contribution: 2018-06-10 20:09
-
-Contribution: 2018-06-11 20:00
-
-Contribution: 2018-06-11 20:01
-
-Contribution: 2018-06-11 20:02
-
-Contribution: 2018-06-11 20:03
-
-Contribution: 2018-06-11 20:04
-
-Contribution: 2018-06-11 20:05
-
-Contribution: 2018-06-11 20:06
-
-Contribution: 2018-06-11 20:07
-
-Contribution: 2018-06-11 20:08
-
-Contribution: 2018-06-11 20:09
-
-Contribution: 2018-06-11 20:10
-
-Contribution: 2018-06-11 20:11
-
-Contribution: 2018-06-11 20:12
-
-Contribution: 2018-06-12 20:00
-
-Contribution: 2018-06-12 20:01
-
-Contribution: 2018-06-12 20:02
-
-Contribution: 2018-06-12 20:03
-
-Contribution: 2018-06-12 20:04
-
-Contribution: 2018-06-12 20:05
-
-Contribution: 2018-06-12 20:06
-
-Contribution: 2018-06-12 20:07
-
-Contribution: 2018-06-12 20:08
-
-Contribution: 2018-06-12 20:09
-
-Contribution: 2018-06-13 20:00
-
-Contribution: 2018-06-13 20:01
-
-Contribution: 2018-06-13 20:02
-
-Contribution: 2018-06-13 20:03
-
-Contribution: 2018-06-14 20:00
-
-Contribution: 2018-06-14 20:01
-
-Contribution: 2018-06-14 20:02
-
-Contribution: 2018-06-14 20:03
-
-Contribution: 2018-06-14 20:04
-
-Contribution: 2018-06-14 20:05
-
-Contribution: 2018-06-14 20:06
-
-Contribution: 2018-06-14 20:07
-
-Contribution: 2018-06-14 20:08
-
-Contribution: 2018-06-14 20:09
-
-Contribution: 2018-06-14 20:10
-
-Contribution: 2018-06-14 20:11
-
-Contribution: 2018-06-14 20:12
-
-Contribution: 2018-06-14 20:13
-
-Contribution: 2018-06-15 20:00
-
-Contribution: 2018-06-15 20:01
-
-Contribution: 2018-06-15 20:02
-
-Contribution: 2018-06-15 20:03
-
-Contribution: 2018-06-15 20:04
-
-Contribution: 2018-06-15 20:05
-
-Contribution: 2018-06-15 20:06
-
-Contribution: 2018-06-15 20:07
-
-Contribution: 2018-06-16 20:00
-
-Contribution: 2018-06-17 20:00
-
-Contribution: 2018-06-17 20:01
-
-Contribution: 2018-06-17 20:02
-
-Contribution: 2018-06-17 20:03
-
-Contribution: 2018-06-17 20:04
-
-Contribution: 2018-06-18 20:00
-
-Contribution: 2018-06-18 20:01
-
-Contribution: 2018-06-18 20:02
-
-Contribution: 2018-06-18 20:03
-
-Contribution: 2018-06-18 20:04
-
-Contribution: 2018-06-18 20:05
-
-Contribution: 2018-06-18 20:06
-
-Contribution: 2018-06-18 20:07
-
-Contribution: 2018-06-18 20:08
-
-Contribution: 2018-06-18 20:09
-
-Contribution: 2018-06-18 20:10
-
-Contribution: 2018-06-18 20:11
-
-Contribution: 2018-06-22 20:00
-
-Contribution: 2018-06-24 20:00
-
-Contribution: 2018-06-24 20:01
-
-Contribution: 2018-06-24 20:02
-
-Contribution: 2018-06-24 20:03
-
-Contribution: 2018-06-24 20:04
-
-Contribution: 2018-06-24 20:05
-
-Contribution: 2018-06-25 20:00
-
-Contribution: 2018-06-25 20:01
-
-Contribution: 2018-06-25 20:02
-
-Contribution: 2018-06-25 20:03
-
-Contribution: 2018-06-25 20:04
-
-Contribution: 2018-06-25 20:05
-
-Contribution: 2018-06-25 20:06
-
-Contribution: 2018-06-25 20:07
-
-Contribution: 2018-06-25 20:08
-
-Contribution: 2018-06-25 20:09
-
-Contribution: 2018-06-29 20:00
-
-Contribution: 2018-06-29 20:01
-
-Contribution: 2018-06-29 20:02
-
-Contribution: 2018-06-29 20:03
-
-Contribution: 2018-06-29 20:04
-
-Contribution: 2018-06-29 20:05
-
-Contribution: 2018-06-29 20:06
-
-Contribution: 2018-06-29 20:07
-
-Contribution: 2018-06-29 20:08
-
-Contribution: 2018-06-29 20:09
-
-Contribution: 2018-06-30 20:00
-
-Contribution: 2018-06-30 20:01
-
-Contribution: 2018-06-30 20:02
-
-Contribution: 2018-06-30 20:03
-
-Contribution: 2018-06-30 20:04
-
-Contribution: 2018-06-30 20:05
-
-Contribution: 2018-06-30 20:06
-
-Contribution: 2018-06-30 20:07
-
-Contribution: 2018-06-30 20:08
-
-Contribution: 2018-06-30 20:09
-
-Contribution: 2018-06-30 20:10
-
-Contribution: 2018-06-30 20:11
-
-Contribution: 2018-07-01 20:00
-
-Contribution: 2018-07-01 20:01
-
-Contribution: 2018-07-01 20:02
-
-Contribution: 2018-07-01 20:03
-
-Contribution: 2018-07-01 20:04
-
-Contribution: 2018-07-01 20:05
-
-Contribution: 2018-07-01 20:06
-
-Contribution: 2018-07-02 20:00
-
-Contribution: 2018-07-02 20:01
-
-Contribution: 2018-07-02 20:02
-
-Contribution: 2018-07-02 20:03
-
-Contribution: 2018-07-03 20:00
-
-Contribution: 2018-07-03 20:01
-
-Contribution: 2018-07-03 20:02
-
-Contribution: 2018-07-03 20:03
-
-Contribution: 2018-07-03 20:04
-
-Contribution: 2018-07-03 20:05
-
-Contribution: 2018-07-03 20:06
-
-Contribution: 2018-07-03 20:07
-
-Contribution: 2018-07-03 20:08
-
-Contribution: 2018-07-03 20:09
-
-Contribution: 2018-07-03 20:10
-
-Contribution: 2018-07-05 20:00
-
-Contribution: 2018-07-05 20:01
-
-Contribution: 2018-07-05 20:02
-
-Contribution: 2018-07-05 20:03
-
-Contribution: 2018-07-05 20:04
-
-Contribution: 2018-07-05 20:05
-
-Contribution: 2018-07-05 20:06
-
-Contribution: 2018-07-05 20:07
-
-Contribution: 2018-07-05 20:08
-
-Contribution: 2018-07-05 20:09
-
-Contribution: 2018-07-05 20:10
-
-Contribution: 2018-07-05 20:11
-
-Contribution: 2018-07-06 20:00
-
-Contribution: 2018-07-06 20:01
-
-Contribution: 2018-07-06 20:02
-
-Contribution: 2018-07-06 20:03
-
-Contribution: 2018-07-06 20:04
-
-Contribution: 2018-07-06 20:05
-
-Contribution: 2018-07-06 20:06
-
-Contribution: 2018-07-07 20:00
-
-Contribution: 2018-07-07 20:01
-
-Contribution: 2018-07-08 20:00
-
-Contribution: 2018-07-08 20:01
-
-Contribution: 2018-07-08 20:02
-
-Contribution: 2018-07-08 20:03
-
-Contribution: 2018-07-08 20:04
-
-Contribution: 2018-07-08 20:05
-
-Contribution: 2018-07-08 20:06
-
-Contribution: 2018-07-08 20:07
-
-Contribution: 2018-07-08 20:08
-
-Contribution: 2018-07-08 20:09
-
-Contribution: 2018-07-08 20:10
-
-Contribution: 2018-07-08 20:11
-
-Contribution: 2018-07-10 20:00
-
-Contribution: 2018-07-10 20:01
-
-Contribution: 2018-07-10 20:02
-
-Contribution: 2018-07-10 20:03
-
-Contribution: 2018-07-10 20:04
-
-Contribution: 2018-07-10 20:05
-
-Contribution: 2018-07-10 20:06
-
-Contribution: 2018-07-10 20:07
-
-Contribution: 2018-07-10 20:08
-
-Contribution: 2018-07-10 20:09
-
-Contribution: 2018-07-10 20:10
-
-Contribution: 2018-07-10 20:11
-
-Contribution: 2018-07-11 20:00
-
-Contribution: 2018-07-11 20:01
-
-Contribution: 2018-07-11 20:02
-
-Contribution: 2018-07-11 20:03
-
-Contribution: 2018-07-11 20:04
-
-Contribution: 2018-07-11 20:05
-
-Contribution: 2018-07-11 20:06
-
-Contribution: 2018-07-11 20:07
-
-Contribution: 2018-07-11 20:08
-
-Contribution: 2018-07-11 20:09
-
-Contribution: 2018-07-11 20:10
-
-Contribution: 2018-07-11 20:11
-
-Contribution: 2018-07-11 20:12
-
-Contribution: 2018-07-11 20:13
-
-Contribution: 2018-07-12 20:00
-
-Contribution: 2018-07-12 20:01
-
-Contribution: 2018-07-12 20:02
-
-Contribution: 2018-07-12 20:03
-
-Contribution: 2018-07-12 20:04
-
-Contribution: 2018-07-12 20:05
-
-Contribution: 2018-07-12 20:06
-
-Contribution: 2018-07-12 20:07
-
-Contribution: 2018-07-12 20:08
-
-Contribution: 2018-07-12 20:09
-
-Contribution: 2018-07-12 20:10
-
-Contribution: 2018-07-13 20:00
-
-Contribution: 2018-07-13 20:01
-
-Contribution: 2018-07-13 20:02
-
-Contribution: 2018-07-13 20:03
-
-Contribution: 2018-07-13 20:04
-
-Contribution: 2018-07-13 20:05
-
-Contribution: 2018-07-13 20:06
-
-Contribution: 2018-07-13 20:07
-
-Contribution: 2018-07-13 20:08
-
-Contribution: 2018-07-13 20:09
-
-Contribution: 2018-07-13 20:10
-
-Contribution: 2018-07-13 20:11
-
-Contribution: 2018-07-13 20:12
-
-Contribution: 2018-07-15 20:00
-
-Contribution: 2018-07-15 20:01
-
-Contribution: 2018-07-15 20:02
-
-Contribution: 2018-07-15 20:03
-
-Contribution: 2018-07-15 20:04
-
-Contribution: 2018-07-15 20:05
-
-Contribution: 2018-07-15 20:06
-
-Contribution: 2018-07-15 20:07
-
-Contribution: 2018-07-15 20:08
-
-Contribution: 2018-07-15 20:09
-
-Contribution: 2018-07-15 20:10
-
-Contribution: 2018-07-15 20:11
-
-Contribution: 2018-07-15 20:12
-
-Contribution: 2018-07-15 20:13
-
-Contribution: 2018-07-16 20:00
-
-Contribution: 2018-07-16 20:01
-
-Contribution: 2018-07-16 20:02
-
-Contribution: 2018-07-16 20:03
-
-Contribution: 2018-07-16 20:04
-
-Contribution: 2018-07-16 20:05
-
-Contribution: 2018-07-16 20:06
-
-Contribution: 2018-07-16 20:07
-
-Contribution: 2018-07-16 20:08
-
-Contribution: 2018-07-16 20:09
-
-Contribution: 2018-07-16 20:10
-
-Contribution: 2018-07-17 20:00
-
-Contribution: 2018-07-17 20:01
-
-Contribution: 2018-07-17 20:02
-
-Contribution: 2018-07-17 20:03
-
-Contribution: 2018-07-18 20:00
-
-Contribution: 2018-07-18 20:01
-
-Contribution: 2018-07-18 20:02
-
-Contribution: 2018-07-18 20:03
-
-Contribution: 2018-07-18 20:04
-
-Contribution: 2018-07-18 20:05
-
-Contribution: 2018-07-18 20:06
-
-Contribution: 2018-07-18 20:07
-
-Contribution: 2018-07-18 20:08
-
+# Sport Stats
+Sport stats UI components (react components + three, d3)
+
+[**Demo**](https://alexadam.github.io/demos/sport-stats/)
+
+![alt ex1.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex1.png?raw=true)
+
+## How to use
+
+```
+npm install https://github.com/alexadam/sport-stats
+# or downlod/clone this repository
+```
+
+```
+import {LiveEvents, LiveEvent, Field2D, Field3D, PlayerDetails, GameStats, TeamsTable, FieldPlay} from 'sport-stats';
+```
+
+You can find a demo project in the 'example-project' directory.
+
+# Components
+
+## 3D Field
+
+```
+<Field3D field={this.soccerField} onPlayerClick={this.playerClick} homeTeam={this.homeTeam} awayTeam={this.awayTeam} shouldUpdate={this.state.shouldUpdate} />
+```
+
+```
+homeTeam = {
+    id: 1,
+    name: 'Home Team',
+    logoUrl: '/textures/team1.png',
+    playerPositionById: [
+        [1],
+        [2, 3, 4, 5],
+        [6, 7],
+        [8, 9, 10],
+        [11]
+    ],
+    players: [
+        {
+            id: 1,
+            name: 'Home Player 1',
+            tShirtImgUrl: '/textures/tshirt5.png',
+            tShirtNr: '1',
+            faceImgUrl: '/textures/generic-face.png'
+        },
+        {
+            id: 2,
+            name: 'Home Player 2',
+            tShirtImgUrl: '/textures/tshirt5.png',
+            tShirtNr: '2',
+            faceImgUrl: '/textures/generic-face.png'
+        },
+        ...........
+```
+
+![alt ex2.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex2.png?raw=true)
+
+### Multiple textures
+
+```
+soccerField = {
+    width: 105,
+    height: 68,
+    textureUrl: 'textures/soccer.png'
+}
+iceHockeyField = {
+    width: 68 * 2.15,
+    height: 68,
+    textureUrl: 'textures/icehockey.png'
+}
+basketball = {
+    width: 89,
+    height: 51,
+    textureUrl: 'textures/basketball.png'
+}
+```
+
+![alt ex3.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex3.png?raw=true)
+
+
+## 2D Field
+
+```
+<Field2D field={this.soccerField2D} onPlayerClick={this.playerClick} perspective="true" homeTeam={this.homeTeam} awayTeam={this.awayTeam}  shouldUpdate={this.state.shouldUpdate}/>
+```
+
+```
+soccerField2D = {
+    width: 1200,
+    height: 780,
+    textureUrl: 'textures/soccer.png'
+}
+```
+
+![alt ex4.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex4.png?raw=true)
+![alt ex41.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex41.png?raw=true)
+
+## Live Events
+
+```
+<LiveEvents homeTeam={this.homeTeam} awayTeam={this.awayTeam} matchData={this.matchData}>
+    {this.eventsData.map((event, i) => <LiveEvent type={event.players[0].teamId === 1 ? 'home' : 'away'} {...event} key={i} onPlayerClick={this.playerClick}/>)}
+</LiveEvents>
+```
+
+```
+matchData = {
+    score: '2 - 1',
+    time: '86\''
+}
+
+eventsData = [{
+    logoUrl: '/textures/yellow-card.png',
+    time: '82\'',
+    players: [
+        {
+            id: 1,
+            teamId: 1,
+            name: 'Home Player 1'
+        }
+    ]
+},
+{
+    logoUrl: '/textures/change2.png',
+    time: '71\'',
+    players: [
+        {
+            id: 1,
+            teamId: 1,
+            name: 'Home Player 1'
+        },
+        {
+            id: 2,
+            teamId: 1,
+            name: 'Home Player 2'
+        }
+    ]
+},
+...........
+```
+
+![alt ex5.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex5.png?raw=true)
+
+## Game Stats
+
+```
+<GameStats stats={this.gameStats} homePlayers={this.homeTeam.players} awayPlayers={this.awayTeam.players} onPlayerClick={this.playerClick} fieldTextureUrl="/textures/soccer-field.svg" possesionData={this.possesionData}/>
+
+```
+
+```
+gameStats = [
+    {
+        type: 'Total Shots',
+        home: '17',
+        away: '12'
+    },
+    {
+        type: 'Shots On Target',
+        home: '5',
+        away: '7'
+    },
+    {
+        type: 'Pass Accuracy',
+        home: '75%',
+        away: '86%'
+    },
+    {
+        type: 'Aerial Won',
+        home: '70%',
+        away: '30%'
+    },
+    ....
+
+possesionData = {
+        type: 'Possesion',
+        home: '60%',
+        away: '40%'
+    };
+```
+
+![alt ex6.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex6.png?raw=true)
+
+## Player Details
+
+```
+<PlayerDetails player={this.state.playerData} bio={this.state.playerBioData} stats={this.state.playerStateData} />
+```
+
+```
+playerBioData: {
+    'Age': '29',
+    'Height': '1.85 cm',
+    'Weight': '73 kg',
+    'Nationality': 'German'
+},
+playerStateData:  {
+    'Total Goals': '1',
+    'Goal Assists': '1',
+    'Shots On Target': '3',
+    'Total Shots': '3',
+    'Fouls Committed': '1',
+    'Fouls Suffered': '2',
+    'Red Cards': '0',
+    'Yellow Cards': '1'
+}
+```
+
+![alt ex7.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex7.png?raw=true)
+
+
+## Field Play (work in progress)
+
+```
+<FieldPlay field={this.soccerField} onPlayerClick={this.playerClick} shouldUpdate={this.state.shouldUpdate} objects={this.FPObjects} arrows={this.FPArrows}/>
+```
+
+```
+FPObjects = [
+    {
+        x: 50,
+        y: 30,
+        data: {
+            // TODO
+            id: 1,
+            name: 'Away Player 1',
+            tShirtImgUrl: '/textures/tshirt9.png',
+            tShirtNr: '1',
+            faceImgUrl: '/textures/generic-face.png'
+        }
+    },
+    {
+        x: 75,
+        y: 45,
+        data: {
+            id: 2,
+            name: 'Away Player 2',
+            tShirtImgUrl: '/textures/tshirt9.png',
+            tShirtNr: '2',
+            faceImgUrl: '/textures/generic-face.png'
+        }
+    },
+    .....
+
+FPArrows = [
+    {
+        start: [50, 30, 0],
+        middle: [62, 37, 20],
+        end: [75, 45, 0],
+        color: 0x0000ff,
+        lineWidth: 3
+    },
+    ....
+    {
+        start: [85, 20, 0],
+        end: [100, 35, 2],
+        color: 0xff0000,
+        lineWidth: 3
+    }
+    ......
+```
+
+![alt ex8.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex8.png?raw=true)
+
+## Credits
+Example images from:
+ * https://pixabay.com
+ * https://en.wikipedia.org/wiki/File:Icehockeylayout.svg
+ * https://en.wikipedia.org/wiki/File:Basketball_court_fiba.svg
+ * https://commons.wikimedia.org/wiki/File:Soccer_Field_Transparant.svg
+
+## TODO
+ * problems when resizing the 3d components
+ * finish 'FieldPlay' & 'TeamsTable' + add more (ex. heatmaps, graphs etc.)
+ * more responsive components
+ * add a server example with live update
