@@ -1,10 +1,6 @@
 # Sport Stats
 Sport stats UI components (react components + three, d3)
 
-[**Demo**](https://alexadam.github.io/demos/sport-stats/)
-
-![alt ex1.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex1.png?raw=true)
-
 ## How to use
 
 ```
@@ -56,8 +52,6 @@ homeTeam = {
         ...........
 ```
 
-![alt ex2.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex2.png?raw=true)
-
 ### Multiple textures
 
 ```
@@ -78,8 +72,6 @@ basketball = {
 }
 ```
 
-![alt ex3.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex3.png?raw=true)
-
 
 ## 2D Field
 
@@ -94,9 +86,6 @@ soccerField2D = {
     textureUrl: 'textures/soccer.png'
 }
 ```
-
-![alt ex4.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex4.png?raw=true)
-![alt ex41.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex41.png?raw=true)
 
 ## Live Events
 
@@ -142,8 +131,6 @@ eventsData = [{
 ...........
 ```
 
-![alt ex5.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex5.png?raw=true)
-
 ## Game Stats
 
 ```
@@ -182,8 +169,6 @@ possesionData = {
     };
 ```
 
-![alt ex6.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex6.png?raw=true)
-
 ## Player Details
 
 ```
@@ -208,9 +193,6 @@ playerStateData:  {
     'Yellow Cards': '1'
 }
 ```
-
-![alt ex7.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex7.png?raw=true)
-
 
 ## Field Play (work in progress)
 
@@ -262,18 +244,3 @@ FPArrows = [
     }
     ......
 ```
-
-![alt ex8.png](https://github.com/alexadam/sport-stats/blob/master/ex-imgs/ex8.png?raw=true)
-
-## Credits
-Example images from:
- * https://pixabay.com
- * https://en.wikipedia.org/wiki/File:Icehockeylayout.svg
- * https://en.wikipedia.org/wiki/File:Basketball_court_fiba.svg
- * https://commons.wikimedia.org/wiki/File:Soccer_Field_Transparant.svg
-
-## TODO
- * problems when resizing the 3d components
- * finish 'FieldPlay' & 'TeamsTable' + add more (ex. heatmaps, graphs etc.)
- * more responsive components
- * add a server example with live update
